@@ -1,1 +1,2 @@
 “Usuario=vagrant”
+model name	: AMD Athlon(tm) II X2 270 Processor
