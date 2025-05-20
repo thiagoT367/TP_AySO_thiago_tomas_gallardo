@@ -1,1 +1,3 @@
-# TP_AySO_thiago_tomas_gallardo
+Alumno: thiago gallardo
+División: 211
+Turno: tarde
